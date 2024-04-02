@@ -1,0 +1,6 @@
+Análise de vulnerabilidades em protocolos de comunicação.
+Criptografia e segurança de redes sem fio.
+Políticas de segurança de rede em ambientes corporativos.
+Autenticação biométrica em sistemas de segurança.
+Estratégias de resposta a incidentes de segurança.
+Anonimização de dados para privacidade online.
